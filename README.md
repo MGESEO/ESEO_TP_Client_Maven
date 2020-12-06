@@ -1,1 +1,3 @@
-# ESEO_TP_Client_Maven-
+# ESEO_TP_Client_Maven
+
+Voici le repository pour le client
